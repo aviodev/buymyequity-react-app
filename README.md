@@ -3,8 +3,10 @@
 **Buymyequity.in** is a React-based web application developed to act as an introducer between investors and startup companies. The platform helps startups gain visibility and access to investment opportunities, acting purely as a facilitator and not as a stock exchange.
 
 > **Disclaimer**:  
-> Buymyequity.in is _not_ a Stock Exchange as defined under the Securities Contract Regulation Act, 1956. It merely facilitates connections between startups and investors. All services rendered by Buymyequity.in are distinct and separate from those of a Stock Exchange.
+> Buymyequity.in is a conceptual portfolio project created for demonstration purposes only. It is not a Stock Exchange as defined under the Securities Contract Regulation Act, 1956. The platform design is intended to showcase development skills and merely simulates how connections between startups and investors could be facilitated.
 
+> **Important**:
+>This project is part of a personal portfolio. Do not copy, replicate, or use any part of the code or content without explicit permission from the developer. Unauthorized use may lead to legal action.
 ---
 
 ## 🛠 Developed By
@@ -23,13 +25,7 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/buymyequity.git
-   cd buymyequity
-   ```
+ 
 
 ## 📸 Screenshots
 
